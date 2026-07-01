@@ -6,3 +6,6 @@ Completed data cleaning and EDA.
 
 ## Sprint 2
 Developed Logistic Regression baseline model.
+
+## Sprint 3
+Implemented LightGBM improvement.

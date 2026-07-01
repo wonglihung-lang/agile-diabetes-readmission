@@ -9,3 +9,6 @@ Developed Logistic Regression baseline model.
 
 ## Sprint 3
 Implemented LightGBM improvement.
+
+## CI/CD Testing
+GitHub Actions workflow configured.
